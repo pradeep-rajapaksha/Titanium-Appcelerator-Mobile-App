@@ -1,0 +1,7 @@
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/openac/com/todo/ApplicationStylesheet.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/openac/com/todo/R.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/openac/com/todo/TodoActivity.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/openac/com/todo/TodoAppInfo.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/openac/com/todo/TodoApplication.java"
+"C:/Users/pradeep/Documents/Appcelerator/toDo/build/android/gen/ti/modules/titanium/ui/R.java"
